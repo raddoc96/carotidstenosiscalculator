@@ -1,0 +1,5 @@
+{
+  "name": "Carotid Stenosis Grader",
+  "description": "An expert-level clinical support tool to grade Internal Carotid Artery (ICA) stenosis based on the 2003 Society of Radiologists in Ultrasound (SRU) Consensus Conference criteria. Users can input Doppler US parameters to receive an accurate, evidence-based stenosis classification.",
+  "requestFramePermissions": []
+}
